@@ -16,10 +16,15 @@
 
   <p align="center">Hi, I'm <b>Ponmadhan</b> 👋 — a passionate developer exploring backend systems, IoT, and intelligent automation with a strong foundation in Java, Spring Boot, and React.</p>
 </div>
- <p align="center">🌐 My Portfolio</p>
+<p align="center">🌐 My Portfolio</p>
 
- <p align="center">Check out my portfolio here:  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-six-tau-nbdd224gy8.vercel.app/)</p>
+<p align="center">
+  Check out my portfolio here:  
+  <a href="https://portfolio-six-tau-nbdd224gy8.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
 
 ---
 
