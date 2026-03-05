@@ -65,140 +65,136 @@ I enjoy turning ideas into scalable products and automation solutions.
 
 ---
 
-# ⚙️ Tech Stack
+# ⚙️ Tech Arsenal
 
 ### 💻 Programming
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js"/>
+</p>
 
-Java  
-Python  
-JavaScript  
+### 🏗 Backend Engineering
+<p>
+<img src="https://skillicons.dev/icons?i=spring,mysql"/>
+</p>
 
-### 🏗 Backend
+Spring Boot • Spring Data JPA • REST API Architecture
 
-Spring Boot  
-Spring Data JPA  
-REST APIs  
-MySQL  
+### 🎨 Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind"/>
+</p>
 
-### 🎨 Frontend
+React.js • Tailwind CSS • Axios
 
-React.js  
-Tailwind CSS  
-Axios  
+### 🧠 AI & IoT Systems
+Arduino • OpenCV • Smart Automation • Computer Vision
 
-### 🧠 AI / IoT
+### ☁️ DevOps & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,aws"/>
+</p>
 
-Arduino  
-Computer Vision (OpenCV)  
-Automation Systems  
+AWS EC2 • CI/CD Concepts
 
-### ☁️ DevOps
+### 🎨 Design & Prototyping
+<p>
+<img src="https://skillicons.dev/icons?i=figma"/>
+</p>
 
-Git  
-GitHub  
-AWS EC2  
-CI/CD Concepts  
+UI/UX Design • Product Prototyping
 
-### 🎨 Design
-
-Figma  
-UI/UX Prototyping  
-
-### 📚 Computer Science
-
+### 📚 Computer Science Core
 Data Structures & Algorithms  
 Automata Theory  
 Graph Algorithms  
 PageRank & Web Search  
-Turing Machines  
+Turing Machines
 
 ---
 
-# 🔋 Featured Projects
+# 🚀 Featured Projects
 
-## 🥚 Multi Egg Smart Sorting System
+## 🥚 Multi-Egg Smart Sorting System
 
-An **IoT based intelligent sorting system** that classifies eggs automatically.
+**IoT + Computer Vision automation system for poultry farms**
 
-Technologies  
-Arduino  
-OpenCV  
-Computer Vision  
+🔧 Tech Stack  
+Arduino • OpenCV • Image Processing • Automation
 
-Features
+✨ Highlights
 
-• Detects egg quality using image analysis  
-• Automatically sorts eggs using conveyor mechanism  
-• Reduces manual labor in poultry processing
+• AI-assisted egg quality detection  
+• Conveyor-based automatic sorting  
+• Reduces manual inspection effort  
+• Designed for scalable farm deployment
 
 ---
 
 ## 🛒 Grocery Delivery Platform
 
-A scalable backend system for managing online grocery orders.
+**Scalable backend architecture for online grocery management**
 
-Technologies  
-Spring Boot  
-JPA  
-MySQL  
+🔧 Tech Stack  
+Spring Boot • MySQL • JPA • REST APIs
 
-Features
+✨ Highlights
 
-• Product and category management  
-• Real time order tracking  
-• Inventory and admin management  
-• Customer feedback system
+• Product & category management system  
+• Real-time order tracking  
+• Inventory management dashboard  
+• Customer feedback integration
 
 ---
 
 ## ✉️ Email SMTP Automation System
 
-A notification system for sending automated emails.
+**Automated email notification engine for backend applications**
 
-Technologies  
-Spring Boot  
-SMTP Mail Server  
+🔧 Tech Stack  
+Spring Boot • SMTP • Mail Templates
 
-Features
+✨ Highlights
 
-• Email notifications  
-• Alert systems  
-• Template based messages
-
----
-
-## 🎨 Canva Style Design Studio (Work in Progress)
-
-A platform that allows businesses and creators to design custom graphics.
-
-Technologies  
-React  
-Tailwind CSS  
-Figma  
-
-Features
-
-• Logo and banner design tools  
-• T-shirt template editor  
-• Drag and drop UI elements
+• Event-based email alerts  
+• Configurable notification workflows  
+• Template-driven messaging system
 
 ---
 
-# 🧠 Currently Learning
+## 🎨 Canva-Style Design Studio (WIP)
 
-• Advanced Data Structures  
-• Backend Architecture  
-• Scalable System Design  
-• AI powered automation tools
+**Web platform for creating logos, apparel designs, and marketing assets**
+
+🔧 Tech Stack  
+React • Tailwind CSS • Figma
+
+✨ Highlights
+
+• Drag-and-drop design interface  
+• Logo and banner creator  
+• Custom t-shirt template editor
+---
+
+# 🧠 Currently Leveling Up
+
+🚀 Advanced Data Structures & Algorithms  
+⚙️ Scalable Backend Architecture  
+🧩 System Design Principles  
+🤖 AI-Powered Automation Systems
 
 ---
 
-
-# 💻 LeetCode Progress
+# 🧠 Algorithm Practice
 
 <p align="center">
 
 <img src="https://leetcard.jacoblin.cool/PONMADHAN?theme=dark&font=Baloo&ext=contest" />
+
+</p>
+
+<p align="center">
+
+🔥 Strengthening problem-solving skills through consistent coding practice.
 
 </p>
 
