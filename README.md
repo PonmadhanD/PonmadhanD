@@ -1,97 +1,239 @@
 <div align="center">
 
-  <div>
-    <img src="https://img.shields.io/badge/-Java-black?style=for-the-badge&logoColor=white&logo=coffeescript&color=007396" alt="Java" />
-    <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logoColor=white&logo=python&color=3776AB" alt="Python" />
-    <img src="https://img.shields.io/badge/-Spring_Boot-black?style=for-the-badge&logoColor=white&logo=springboot&color=6DB33F" alt="Spring Boot" />
-    <img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logoColor=white&logo=mysql&color=4479A1" alt="MySQL" />
-    <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="Tailwind" />
-    <img src="https://img.shields.io/badge/-Figma-black?style=for-the-badge&logoColor=white&logo=figma&color=F24E1E" alt="Figma" />
-    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logoColor=white&logo=github&color=181717" alt="GitHub" />
-    <img src="https://img.shields.io/badge/-AWS_EC2-black?style=for-the-badge&logoColor=white&logo=amazonaws&color=FF9900" alt="AWS EC2" />
-  </div>
+<img src="https://img.shields.io/badge/FullStack-Developer-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IoT-Engineer-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Automation-orange?style=for-the-badge"/>
 
-  <h2 align="center">🚀 Full Stack Developer | Java • Python • React • Spring Boot</h2>
+<br>
 
-  <p align="center">Hi, I'm <b>Ponmadhan</b> 👋 — a passionate developer exploring backend systems, IoT, and intelligent automation with a strong foundation in Java, Spring Boot, and React.</p>
+<img src="https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java&logoColor=white&color=007396"/>
+<img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=white&color=3776AB"/>
+<img src="https://img.shields.io/badge/-SpringBoot-black?style=for-the-badge&logo=springboot&logoColor=white&color=6DB33F"/>
+<img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=white&color=61DAFB"/>
+<img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1"/>
+<img src="https://img.shields.io/badge/-TailwindCSS-black?style=for-the-badge&logo=tailwindcss&logoColor=white&color=06B6D4"/>
+<img src="https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=amazonaws&logoColor=white&color=FF9900"/>
+<img src="https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma&logoColor=white&color=F24E1E"/>
+
 </div>
-<p align="center">🌐 My Portfolio</p>
+
+<h2 align="center">🚀 Ponmadhan | Full Stack Developer • IoT Builder • Problem Solver</h2>
 
 <p align="center">
-  Check out my portfolio here:  
-  <a href="https://portfolio-six-tau-nbdd224gy8.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
-
----
-
-## 📚 <a name="about">About Me</a>
-
-💻 I love building real-world projects combining **AI, IoT, and scalable backend systems**.  
-🔬 I’ve developed solutions like a **Smart Egg Sorting System** using Arduino & OpenCV, and a **Grocery Delivery Platform** powered by Spring Boot & MySQL.  
-🎨 I also work on UI/UX designs for **custom apps** like a Canva-style design studio.  
-📘 Currently exploring **data structures, algorithms, and automation workflows.**
-
----
-
-## ⚙️ <a name="tech-stack">Tech Stack</a>
-
-| Domain | Tools & Technologies |
-|--------|----------------------|
-| 💻 **Languages** | Java, Python, JavaScript |
-| 🏗️ **Backend** | Spring Boot 3, JPA, REST APIs, MySQL |
-| 🎨 **Frontend** | React.js, Tailwind CSS, Axios |
-| 🧠 **AI/IoT** | Arduino, OpenCV, Smart Automation |
-| ☁️ **DevOps** | Git, GitHub, AWS EC2, CI/CD |
-| 🧩 **Design** | Figma, UI/UX Concepts |
-| 📚 **Theory** | Automata Theory, Graph Algorithms, PageRank, DFA/NFA, Turing Machines |
-
----
-
-## 🔋 <a name="projects">Featured Projects</a>
-
-### 🥚 **Multi-Egg Smart Sorting System**
-🔹 IoT-based automation using **Arduino + Computer Vision (OpenCV)**  
-🔹 Real-time detection and sorting using **AI-based classification**
-
-### 🛒 **Grocery Delivery System**
-🔹 Built with **Spring Boot + MySQL + JPA**  
-🔹 Features: CRUD, real-time order tracking, admin management, inventory & customer feedback
-
-### ✉️ **Email SMTP Automation**
-🔹 Spring Boot mail configuration with templates for notifications & alerts
-
-### 🎨 **Canva-Like Design Studio**
-🔹 React + Tailwind UI app for creating t-shirts, logos & ad templates
-
----
-
-## 🧠 <a name="skills">Core Skills</a>
-
-🟩 Java • 🐍 Python • ⚛️ React • 🌱 Spring Boot • 💾 MySQL  
-🎨 Figma • 💡 IoT • 📊 OpenCV • 🔗 REST API • ☁️ AWS EC2  
-🧩 Data Structures & Algorithms • 🧠 Automata & Graph Theory  
-
----
-
-## 🌐 <a name="connect">Let's Connect</a>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ponmadhan-d" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logoColor=white&logo=linkedin&color=0A66C2" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ponmadhandev@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logoColor=white&logo=gmail&color=EA4335" alt="Gmail" />
-  </a>
-  <a href="https://github.com/ponmadhan-dev" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logoColor=white&logo=github&color=181717" alt="GitHub" />
-  </a>
+Passionate about building real-world systems using <b>Java, Spring Boot, React, AI and IoT</b>.  
+I enjoy turning ideas into scalable products and automation solutions.
 </p>
 
 ---
 
-⭐ *"Code. Create. Automate. Inspire."* — **Ponmadhan**
+# 🌐 Portfolio
 
+<p align="center">
+
+<a href="https://portfolio-six-tau-nbdd224gy8.vercel.app/">
+<img src="https://img.shields.io/badge/View-Portfolio-blue?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+• 🎓 Computer Science Engineering student (IoT Specialization)  
+• 💡 Passionate about **Backend Systems, AI Automation, and Smart IoT Solutions**  
+• 🛠 Love building **practical systems instead of just theoretical projects**  
+• 🧠 Currently improving **Data Structures, Algorithms, and System Design**  
+• 🚀 Active participant in **Hackathons & Tech Communities**
+
+---
+
+# 🏆 Achievements
+
+🥇 **1st Place – Shardeum Track | Hack with GDG Season 03**
+
+• Competed against **180+ teams**  
+• Built a **decentralized blockchain based solution**  
+• Demonstrated scalable architecture and real-world usability
+
+
+
+🥇 **1st Place – NEO HACKSPRINT 2026 | IamNeo Hackathon**
+
+• Top **9 Finalists out of 40 teams**  
+• Built a practical tech solution under limited time
+
+---
+
+# ⚙️ Tech Stack
+
+### 💻 Programming
+
+Java  
+Python  
+JavaScript  
+
+### 🏗 Backend
+
+Spring Boot  
+Spring Data JPA  
+REST APIs  
+MySQL  
+
+### 🎨 Frontend
+
+React.js  
+Tailwind CSS  
+Axios  
+
+### 🧠 AI / IoT
+
+Arduino  
+Computer Vision (OpenCV)  
+Automation Systems  
+
+### ☁️ DevOps
+
+Git  
+GitHub  
+AWS EC2  
+CI/CD Concepts  
+
+### 🎨 Design
+
+Figma  
+UI/UX Prototyping  
+
+### 📚 Computer Science
+
+Data Structures & Algorithms  
+Automata Theory  
+Graph Algorithms  
+PageRank & Web Search  
+Turing Machines  
+
+---
+
+# 🔋 Featured Projects
+
+## 🥚 Multi Egg Smart Sorting System
+
+An **IoT based intelligent sorting system** that classifies eggs automatically.
+
+Technologies  
+Arduino  
+OpenCV  
+Computer Vision  
+
+Features
+
+• Detects egg quality using image analysis  
+• Automatically sorts eggs using conveyor mechanism  
+• Reduces manual labor in poultry processing
+
+---
+
+## 🛒 Grocery Delivery Platform
+
+A scalable backend system for managing online grocery orders.
+
+Technologies  
+Spring Boot  
+JPA  
+MySQL  
+
+Features
+
+• Product and category management  
+• Real time order tracking  
+• Inventory and admin management  
+• Customer feedback system
+
+---
+
+## ✉️ Email SMTP Automation System
+
+A notification system for sending automated emails.
+
+Technologies  
+Spring Boot  
+SMTP Mail Server  
+
+Features
+
+• Email notifications  
+• Alert systems  
+• Template based messages
+
+---
+
+## 🎨 Canva Style Design Studio (Work in Progress)
+
+A platform that allows businesses and creators to design custom graphics.
+
+Technologies  
+React  
+Tailwind CSS  
+Figma  
+
+Features
+
+• Logo and banner design tools  
+• T-shirt template editor  
+• Drag and drop UI elements
+
+---
+
+# 🧠 Currently Learning
+
+• Advanced Data Structures  
+• Backend Architecture  
+• Scalable System Design  
+• AI powered automation tools
+
+---
+
+
+# 💻 LeetCode Progress
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/PONMADHAN?theme=dark&font=Baloo&ext=contest" />
+
+</p>
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PonmadhanD&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PonmadhanD&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ponmadhan-d">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:ponmadhandev@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/ponmadhan-dev">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+⭐ **Code. Build. Automate. Innovate.**
